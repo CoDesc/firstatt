@@ -1,3 +1,3 @@
 # firstatt
-Following the tutorial \n
+Following the tutorial /n
 still following the tutorial
